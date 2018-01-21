@@ -1,0 +1,23 @@
+h1{
+	text-align: center;
+}
+#container{
+	position: relative;
+	width:1000px;
+	margin: 0 auto;
+}
+#chartLocation{
+	float: left;
+	width: 70%;
+	height: 600px;
+	background-color: lightgrey;
+}
+#infobox{
+	float: right;
+	text-align: center;
+	padding: 10px;
+	box-sizing: border-box;
+	height: 600px;
+	width:30% ;
+	background-color: grey;
+}

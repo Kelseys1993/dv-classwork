@@ -1,0 +1,10 @@
+[{"codes":"IN","life_expectancey":75,"fertility_rate":1.0,"region":"North America","population":69364631},
+{"codes":"CN","life_expectancey":67,"fertility_rate":1.5,"region":"North America","population":74621287},
+{"codes":"BR","life_expectancey":87,"fertility_rate":1.6,"region":"Europe","population":64121808},
+{"codes":"IN","life_expectancey":66,"fertility_rate":2.2,"region":"Middle East","population":37025909},
+{"codes":"IN","life_expectancey":77,"fertility_rate":2.0,"region":"Middle East","population":73382386},
+{"codes":"US","life_expectancey":94,"fertility_rate":1.1,"region":"Europe","population":60970847},
+{"codes":"IN","life_expectancey":86,"fertility_rate":2.5,"region":"North America","population":51058486},
+{"codes":"IN","life_expectancey":73,"fertility_rate":2.7,"region":"Middle East","population":46839946},
+{"codes":"IN","life_expectancey":74,"fertility_rate":2.8,"region":"North America","population":53429496},
+{"codes":"IN","life_expectancey":94,"fertility_rate":2.7,"region":"Europe","population":46022081}]
