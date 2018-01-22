@@ -1,0 +1,12 @@
+[{"month":"january","opening":75,"high":78,"low":76,"closing":57},
+{"month":"february","opening":78,"high":80,"low":65,"closing":50},
+{"month":"march","opening":59,"high":76,"low":60,"closing":79},
+{"month":"april","opening":61,"high":64,"low":55,"closing":60},
+{"month":"may","opening":68,"high":79,"low":54,"closing":60},
+{"month":"june","opening":73,"high":52,"low":45,"closing":58},
+{"month":"july","opening":51,"high":64,"low":53,"closing":61},
+{"month":"august","opening":69,"high":78,"low":64,"closing":78},
+{"month":"september","opening":58,"high":79,"low":44,"closing":52},
+{"month":"october","opening":77,"high":80,"low":64,"closing":73},
+{"month":"november","opening":64,"high":77,"low":49,"closing":51},
+{"month":"december","opening":56,"high":70,"low":45,"closing":50}]

@@ -1,0 +1,11 @@
+h1{
+	text-align: center;
+}
+
+#chartLocation{
+	float: left;
+	width: 70%;
+	height: 600px;
+	background-color: lightgrey;
+	margin: 0 auto;
+}
